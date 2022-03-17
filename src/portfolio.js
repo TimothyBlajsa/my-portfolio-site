@@ -1,5 +1,3 @@
-import projectOne from './images/logo192.png';
-
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
