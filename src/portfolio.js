@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: '[Timothy Blajsa]',
-  role: 'Web Developer and Artist',
+  role: '[Web Developer and Artist] from [Berkeley Heights, NJ]',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'An artist and front-end developer with experience leveraging industry tools such as HTML, CCSS, and Javascript, in addition to design based softwares such as Adobe XD, Figma, Wix, and Google Sites. Managing projects in an organized manner, I have worked both individually and cooperatively to produce multiple sites, web apps, and projects.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
