@@ -35,3 +35,8 @@
     margin-top: 2em;
   }
 }
+
+img{
+  margin: none;
+  padding: 1rem;
+}
