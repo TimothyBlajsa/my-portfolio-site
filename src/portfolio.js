@@ -21,11 +21,11 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Planetarium Interactive Display',
     imageSrc: './images/logo192.png',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['HTML', 'CSS', 'PixiJS'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
