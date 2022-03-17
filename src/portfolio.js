@@ -1,3 +1,5 @@
+import projectOne from './images/logo192.png';
+
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rajshekhar26.github.io/cleanfolio',
@@ -22,6 +24,7 @@ const projects = [
   // if there are no projects, Projects section won't show up
   {
     name: 'Project 1',
+    imageSrc: './images/logo192.png',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
@@ -30,6 +33,7 @@ const projects = [
   },
   {
     name: 'Project 2',
+    imageSrc: './images/moon.png',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
