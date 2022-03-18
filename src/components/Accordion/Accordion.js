@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { education } from '../../portfolio';
 import './Accordion.css';
-import { UTurnLeftSharp } from '@mui/icons-material';
+//import { UTurnLeftSharp } from '@mui/icons-material';
 
 
 const AccordionDrawer = () => {
