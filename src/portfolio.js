@@ -68,6 +68,8 @@ const skills = [
   'Git',
   'Wix',
   'Google Sites',
+  'Figma',
+  'Adobe XD',
 ]
 
 const education = {
