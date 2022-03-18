@@ -9,6 +9,9 @@ import './Accordion.css';
 const AccordionDrawer = () => {
     return (
         <>
+        <section className='section experience' id='experience'>
+            <h2 className='section__title'>Experience</h2>
+            <div>
             <Accordion>
                 <AccordionSummary
                     expandIcon={<ExpandMoreIcon />}
@@ -21,6 +24,8 @@ const AccordionDrawer = () => {
                     <Typography>Placeholder</Typography>
                 </AccordionDetails>
             </Accordion>
+            </div>
+        </section>
         </>
     )
 }
