@@ -34,7 +34,7 @@ const AccordionDrawer = () => {
                         <p>{major}</p>
                         <ul>
                             {achievements.map((achievement) => (
-                                <li key={uniqid()}>
+                                <li key={uniqid()} className='accordion__list'>
                                 {achievement}
                                 </li>
                             ))}
@@ -55,7 +55,7 @@ const AccordionDrawer = () => {
                     <Typography>
                         <ul>
                             {clients.map((client) => (
-                                <li key={uniqid}>
+                                <li key={uniqid} className='accordion__list'>
                                     {client}    
                                 </li>
                             ))}
