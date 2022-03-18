@@ -10,10 +10,10 @@ const about = {
   role: '[Web Developer and Artist] from [Berkeley Heights, NJ]',
   description:
     'An artist and front-end developer with experience leveraging industry tools such as HTML, CCSS, and Javascript, in addition to design based softwares such as Adobe XD, Figma, Wix, and Google Sites. Managing projects in an organized manner, I have worked both individually and cooperatively to produce multiple sites, web apps, and projects.',
-  resume: 'https://example.com',
+  resume: 'https://docs.google.com/document/d/1JQQoNmri33yRk_z-k8qczNfmsuHq--mSs6kNHzy4iDg/edit?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/timothy-blajsa-118795196',
+    github: 'https://github.com/TimothyBlajsa',
   },
 }
 
@@ -24,27 +24,35 @@ const projects = [
     name: 'Planetarium Interactive Display',
     imageSrc: './images/logo192.png',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'An interactive presentation of the science of Blackholes.',
     stack: ['HTML', 'CSS', 'PixiJS'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/RVCC-IDMX/291-FALL2021-Team-Black-Hole',
+    livePreview: 'http://blackhole-proto.netlify.app',
   },
   {
-    name: 'Project 2',
+    name: 'Aesthetic Roshambo',
     imageSrc: './images/moon.png',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'An aesthetic version of the classic game of Rock Paper Scissors.',
+    stack: ['HTML', 'CSS', 'Javascript'],
+    sourceCode: 'https://github.com/RVCC-IDMX/rock-paper-scissors-TimothyBlajsa',
+    livePreview: 'http://blajsa-roshambo.netlify.app',
   },
   {
-    name: 'Project 3',
+    name: 'Polaroid',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A simple image generator powered by Unsplash.',
+    stack: ['HTML', 'CSS', 'React'],
+    sourceCode: 'https://github.com/TimothyBlajsa/unsplashGenerator',
+    livePreview: 'http://quick-polaroid.netlify.app',
+  },
+  {
+    name: 'Lofi Notes',
+    description:
+      'An aesthetic, dark-mode and minimalist notes app that takes advantage of local storage.',
+    stack: ['HTML', 'CSS', 'React'],
+    sourceCode: 'https://github.com/TimothyBlajsa/notes-app-javascript-localstorage',
+    livePreview: 'http://lofi-notes.netlify.app',
   },
 ]
 
