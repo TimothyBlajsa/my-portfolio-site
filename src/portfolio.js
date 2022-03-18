@@ -70,9 +70,25 @@ const skills = [
   'Google Sites',
 ]
 
+const education = {
+    date: '[2018]-[2022]',
+    school: 'Raritan Valley Community College',
+    major: 'A.S. Interactive Design and Web Development',
+    achievements: [
+      '3.8+ gpa',
+      'Phi Theta Kappa Honors Society',
+      'The National Society of Leadership and Success',
+      'Alpha Beta Gamma International Business Society',
+      'Student Representative of Philosophy Club',
+      'Writer/Photographer for The Record Paper',
+      'Mentorship 2019-2020',
+    ]
+  }
+
+
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 't.blajsa@gamil.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact, education }
