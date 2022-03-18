@@ -90,9 +90,15 @@ const education = {
     'Raritan Valley Community College',
   ]
 
+  const work = {
+    date: '[Nov 2020]-[Dec 2020]',
+    client: 'Sports Minded Unlimited',
+    role: 'Lead Web Developer and Designer',
+  }
+
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 't.blajsa@gamil.com',
 }
 
-export { header, about, projects, skills, contact, education, clients }
+export { header, about, projects, skills, contact, education, clients, work }

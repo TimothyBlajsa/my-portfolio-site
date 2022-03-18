@@ -7,6 +7,7 @@ import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { education } from '../../portfolio';
 import { clients } from '../../portfolio';
+import { work } from '../../portfolio';
 import './Accordion.css';
 //import { UTurnLeftSharp } from '@mui/icons-material';
 
@@ -72,10 +73,15 @@ const AccordionDrawer = () => {
                     aria-controls="panella-content"
                     id="panella-header"
                     >
-                        <Typography>Work Experience</Typography>
+                        <Typography>Work</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                    <Typography>Placeholder</Typography>
+                    
+                    <Typography component='span'>
+                        <p>{work.date}</p>
+                        <p>{work.client}</p>
+                        <li className='accordion__list'>{work.role}</li>
+                    </Typography>
                 </AccordionDetails>
             </Accordion>
             </div>
