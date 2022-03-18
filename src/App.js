@@ -8,6 +8,7 @@ import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import AccordionDrawer from './components/Accordion/Accordion'
+import Gallery from './components/Gallery/Gallery'
 import './App.css'
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
       <main>
         <About />
         <Projects />
+        
         <Skills />
         <AccordionDrawer />
         <Contact />

@@ -53,10 +53,10 @@ const AccordionDrawer = () => {
                         <Typography>Clients</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                    <Typography>
+                    <Typography component='span'>
                         <ul>
                             {clients.map((client) => (
-                                <li key={uniqid} className='accordion__list'>
+                                <li key={uniqid()} className='accordion__list'>
                                     {client}    
                                 </li>
                             ))}
