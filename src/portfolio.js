@@ -84,11 +84,15 @@ const education = {
       'Mentorship 2019-2020',
     ]
   }
-
+  
+  const clients = [
+    'Sports Minded Unlimited',
+    'Raritan Valley Community College',
+  ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 't.blajsa@gamil.com',
 }
 
-export { header, about, projects, skills, contact, education }
+export { header, about, projects, skills, contact, education, clients }

@@ -6,6 +6,7 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { education } from '../../portfolio';
+import { clients } from '../../portfolio';
 import './Accordion.css';
 //import { UTurnLeftSharp } from '@mui/icons-material';
 
@@ -51,7 +52,15 @@ const AccordionDrawer = () => {
                         <Typography>Clients</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                    <Typography>Placeholder</Typography>
+                    <Typography>
+                        <ul>
+                            {clients.map((client) => (
+                                <li key={uniqid}>
+                                    {client}    
+                                </li>
+                            ))}
+                        </ul>
+                    </Typography>
                 </AccordionDetails>
 
                 
