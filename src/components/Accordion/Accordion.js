@@ -63,8 +63,6 @@ const AccordionDrawer = () => {
                         </ul>
                     </Typography>
                 </AccordionDetails>
-
-                
             </Accordion>
 
             <Accordion>
@@ -76,7 +74,6 @@ const AccordionDrawer = () => {
                         <Typography>Work</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                    
                     <Typography component='span'>
                         <p>{work.date}</p>
                         <p>{work.client}</p>
