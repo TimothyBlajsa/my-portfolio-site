@@ -9,6 +9,7 @@ const Footer = () => (
     >
       Template Created By Raj Shekhar
     </a>
+    <p className='est__date'>est. 2022</p>
   </footer>
 )
 
