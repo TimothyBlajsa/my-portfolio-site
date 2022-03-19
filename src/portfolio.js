@@ -98,6 +98,7 @@ const education = {
     date: '[Nov 2020]-[Dec 2020]',
     client: 'Sports Minded Unlimited',
     role: 'Lead Web Developer and Designer',
+    link: 'https://sportsmindedunlimited.com',
   }
 
 const contact = {

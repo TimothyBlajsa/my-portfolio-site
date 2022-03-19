@@ -78,6 +78,11 @@ const AccordionDrawer = () => {
                         <p>{work.date}</p>
                         <p>{work.client}</p>
                         <li className='accordion__list'>{work.role}</li>
+                        <a href={work.link} target='_blank' rel='noreferrer' className='demo__button'>
+                            <span type='button' className='btn btn--outline'>
+                            Demo
+                            </span>
+                        </a>
                     </Typography>
                 </AccordionDetails>
             </Accordion>
