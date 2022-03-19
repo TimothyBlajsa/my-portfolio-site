@@ -80,7 +80,7 @@ const AccordionDrawer = () => {
                         <li className='accordion__list'>{work.role}</li>
                         <a href={work.link} target='_blank' rel='noreferrer' className='demo__button'>
                             <span type='button' className='btn btn--outline'>
-                            Demo
+                                Demo
                             </span>
                         </a>
                     </Typography>
