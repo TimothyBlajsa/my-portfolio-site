@@ -72,6 +72,8 @@ const skills = [
   'Adobe XD',
 ]
 
+const gallery = []
+
 const education = {
     date: '[2018]-[2022]',
     school: 'Raritan Valley Community College',
@@ -103,4 +105,4 @@ const contact = {
   email: 't.blajsa@gamil.com',
 }
 
-export { header, about, projects, skills, contact, education, clients, work }
+export { header, about, projects, skills, contact, education, clients, work, gallery }

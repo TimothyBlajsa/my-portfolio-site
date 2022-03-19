@@ -3,8 +3,6 @@ import crow from '../../images/crow.jpeg';
 import drown from '../../images/drown.jpeg';
 import vulture from '../../images/vulture.jpeg';
 
-
-
 const Gallery = () => (
     <>
     <section id='gallery' className='section gallery'>
