@@ -14,6 +14,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/timothy-blajsa-118795196',
     github: 'https://github.com/TimothyBlajsa',
+    twitter: 'https://twitter.com/somanypolygons',
   },
 }
 
