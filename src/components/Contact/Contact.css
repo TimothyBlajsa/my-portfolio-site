@@ -1,3 +1,7 @@
 .contact {
   flex-direction: column;
 }
+
+.phone__text {
+  margin:1rem;
+}

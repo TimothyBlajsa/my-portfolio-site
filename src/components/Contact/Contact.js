@@ -12,6 +12,7 @@ const Contact = () => {
           Email me
         </span>
       </a>
+        <div className='phone__text'>{contact.phone}</div>
     </section>
   )
 }
