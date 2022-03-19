@@ -1,12 +1,6 @@
-//import { Wrapper, Status } from '@googlemaps/react-wrapper';
-import { Map, Marker} from 'pigeon-maps';
-import { stamenToner } from 'pigeon-maps/providers';
-
 const Location = () => {
     return (
-        <Map height={300} defaultCenter={[50.879, 4.6997]} defaultZoom={11} provider={stamenToner}>
-            <Marker width={50} anchor={[50.879, 4.6997]} />
-        </Map>
+        <iframe width="100%" height="300" src="https://api.maptiler.com/maps/toner/?key=gfuXlNxZzutozeCvcRzR#10.6/40.67139/-74.42997" title='BH__map'></iframe>
     )
 }
 
