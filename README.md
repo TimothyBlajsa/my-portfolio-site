@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Resources
 [Favicon](https://favicon.io/emoji-favicons/ghost)
-[Template]()
+
+[Template](https://reactjsexample.com/a-clean-and-simple-portfolio-template-using-react-for-developers/)
+
 [Map](https://cloud.maptiler.com/maps/toner/)
