@@ -105,7 +105,7 @@ const education = {
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 't.blajsa@gamil.com',
-  phone: '908-500-0641',
+  phone: '908-376-9813',
 }
 
 export { header, about, projects, skills, contact, education, clients, work, gallery }

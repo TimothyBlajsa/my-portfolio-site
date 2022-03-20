@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Resources
 [Favicon](https://favicon.io/emoji-favicons/ghost)
 [Template]()
+[Map](https://cloud.maptiler.com/maps/toner/)
