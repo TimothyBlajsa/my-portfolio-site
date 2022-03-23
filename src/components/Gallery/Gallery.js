@@ -2,7 +2,7 @@ import '../Gallery/Gallery.css';
 //import crow from '../../images/crow.jpeg';
 import drown from '../../images/drown.jpeg';
 import vulture from '../../images/vulture.jpeg';
-import scapes from '../..images/scapes.jpeg';
+import scapes from '../../images/scapes.jpeg';
 
 const Gallery = () => (
     <>
