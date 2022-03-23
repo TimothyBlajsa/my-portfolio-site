@@ -5,6 +5,8 @@ const Footer = () => (
     <p>Author Timothy Blajsa</p>
     <a
       href='https://www.youtube.com/watch?v=SuXlZ5PHK9I'
+      target='_blank'
+      rel='noreferrer'
       className='link footer__link'
     >
       Click This
