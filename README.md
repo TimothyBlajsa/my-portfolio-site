@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [Template](https://reactjsexample.com/a-clean-and-simple-portfolio-template-using-react-for-developers/)
 
 [Map](https://cloud.maptiler.com/maps/toner/)
+
+[ReactJS Image Gallery](https://www.npmjs.com/package/reactjs-image-gallery)
