@@ -83,19 +83,30 @@ const gallery = []
 const IMAGES = [
   {
     url: 'images/crow.jpeg',
-    title: 'Drawn-bird',
+    title: 'Crow',
     thumbUrl: 'crow.jpeg'
   },
   {
-    url: '../src/images/scapes.jpeg',
-    title: 'abstract-shape',
-    thumbUrl: '../src/images/scapes.jpeg'
+    url: 'images/scapes.jpeg',
+    title: 'Scapes',
+    thumbUrl: 'images/scapes.jpeg'
   },
   {
-    url: '../src/images/drown.jpeg',
-    title: 'anime-panel',
-    thumbUrl: '../src/images/drown.jpeg'
+    url: 'images/drown.jpeg',
+    title: 'Drowning',
+    thumbUrl: 'images/drown.jpeg'
   },
+  {
+    url: 'images/vulture.jpeg',
+    title: 'Bird of Prey',
+    thumbUrl: 'images/vulture.jpeg'
+  },
+  {
+    url: 'images/sunflower.JPG',
+    title: 'Sunny',
+    thumbUrl: 'images/sunflower.JPG'
+  }
+  
 ]
 
 const education = {
