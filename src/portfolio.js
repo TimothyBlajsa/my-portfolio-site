@@ -82,7 +82,7 @@ const IMAGES = [
   {
     url: 'images/crow.jpeg',
     title: 'Crow',
-    thumbUrl: 'crow.jpeg'
+    thumbUrl: 'images/crow.jpeg'
   },
   {
     url: 'images/scapes.jpeg',
