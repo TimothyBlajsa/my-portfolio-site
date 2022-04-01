@@ -6,7 +6,7 @@ const Gallery = () => (
     <>
     <h2 className='section__title'>Gallery</h2>
     <section id='gallery' className='section gallery'>
-        <DztImageGalleryComponent images={IMAGES}/>
+        <DztImageGalleryComponent images={IMAGES} style={{backgroundColor: 'none'}}/>
     </section>
     </>
     
