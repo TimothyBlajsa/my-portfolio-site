@@ -1,6 +1,5 @@
 import '../Gallery/Gallery.css';
 import { IMAGES } from '../../portfolio';
-import ImageGallery from 'react-grid-gallery';
 import DztImageGalleryComponent from 'reactjs-image-gallery';
 
 const Gallery = () => (
