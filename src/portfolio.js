@@ -78,8 +78,6 @@ const skills = [
   'Adobe XD',
 ]
 
-const gallery = []
-
 const IMAGES = [
   {
     url: 'images/crow.jpeg',
