@@ -140,4 +140,4 @@ const contact = {
   phone: '908-376-9813',
 }
 
-export { header, about, projects, skills, contact, education, clients, work, gallery, IMAGES, hero }
+export { header, about, projects, skills, contact, education, clients, work, IMAGES, hero }
