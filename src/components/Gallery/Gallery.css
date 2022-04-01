@@ -12,3 +12,12 @@
 .gallery__image {
     max-width: 300px;
   }
+
+  /*#gallery {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    grid-template-rows: masonry;
+    align-items: center;
+    text-align: center;
+  }*/

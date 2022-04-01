@@ -18,6 +18,11 @@ const about = {
   },
 }
 
+const hero = {
+  name: 'Skull Image',
+  src: 'images/skull.png',
+}
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
@@ -75,6 +80,24 @@ const skills = [
 
 const gallery = []
 
+const IMAGES = [
+  {
+    url: 'images/crow.jpeg',
+    title: 'Drawn-bird',
+    thumbUrl: 'crow.jpeg'
+  },
+  {
+    url: '../src/images/scapes.jpeg',
+    title: 'abstract-shape',
+    thumbUrl: '../src/images/scapes.jpeg'
+  },
+  {
+    url: '../src/images/drown.jpeg',
+    title: 'anime-panel',
+    thumbUrl: '../src/images/drown.jpeg'
+  },
+]
+
 const education = {
     date: '[2018]-[2022]',
     school: 'Raritan Valley Community College',
@@ -108,4 +131,4 @@ const contact = {
   phone: '908-376-9813',
 }
 
-export { header, about, projects, skills, contact, education, clients, work, gallery }
+export { header, about, projects, skills, contact, education, clients, work, gallery, IMAGES, hero }

@@ -39,4 +39,9 @@
 img{
   margin: none;
   padding: 1rem;
+  width: 100%;
+}
+
+.hero-image {
+  text-align: center;
 }

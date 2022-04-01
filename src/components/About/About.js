@@ -3,14 +3,17 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import TwitterIcon from '@material-ui/icons/Twitter'
 import { about } from '../../portfolio'
 import './About.css'
-import image from '../../images/skull.png'
+//import image from 'images/skull.png'
+import { hero } from '../../portfolio';
 
 const About = () => {
   const { name, role, description, resume, social } = about
 
   return (
     <div className='about center'>
-      <img src={image} alt='profile-pic' width="100%" height="auto" />
+      <div className='hero-image'>
+        <div className='hero-text'>
+      <img src={hero.src} alt='profile-pic' width="100%" height="auto"/>
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}.</span>
@@ -18,6 +21,8 @@ const About = () => {
       )}
 
       {role && <h2 className='about__role'>A {role}.</h2>}
+      </div>
+      </div>
       <p className='about__desc'>{description && description}</p>
 
       <div className='about__contact center'>
