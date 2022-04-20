@@ -17,6 +17,11 @@
   background-color: none;
 }
 
-.styles_wrapper_1kG3C {
-  background: none;
+.styles_wrapper__1kG3C {
+  background: none !important;
+  min-height: inherit !important;
+}
+
+.styles_gridItem__nPXhF figcaption {
+  background: #444;
 }
