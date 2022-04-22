@@ -9,12 +9,10 @@ import { education } from '../../portfolio';
 import { clients } from '../../portfolio';
 import { work } from '../../portfolio';
 import './Accordion.css';
-//import { UTurnLeftSharp } from '@mui/icons-material';
-
 
 const AccordionDrawer = () => {
     const { date, school, major, achievements } = education;
-    console.log(date);
+    
     return (
         <>
         <section className='section experience' id='experience'>
