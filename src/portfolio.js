@@ -103,6 +103,26 @@ const IMAGES = [
     url: 'images/sunflower.JPG',
     title: 'Sunny',
     thumbUrl: 'images/sunflower.JPG'
+  },
+  {
+    url: 'images/cry.jpg',
+    title: 'Cry',
+    thumbUrl: 'images/cry.jpg'
+  },
+  {
+    url: 'images/koi.JPG',
+    title: 'Koi',
+    thumbUrl: 'images/koi.JPG'
+  },
+  {
+    url: 'images/new_world_economy.JPG',
+    title: 'Crypto',
+    thumbUrl: 'images/new_world_economy.JPG'
+  },
+  {
+    url: 'images/work_at_home.JPG',
+    title: 'Lofi',
+    thumbUrl: 'images/work_at_home.JPG'
   }
   
 ]
