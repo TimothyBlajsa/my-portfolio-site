@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'http://blajsa-port.netlify.app',
+  homepage: 'https://www.blajsa.com',
   title: '[ghost-development]',
 }
 
