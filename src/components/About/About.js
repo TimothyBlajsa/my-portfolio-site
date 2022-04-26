@@ -11,7 +11,7 @@ const About = () => {
 
   return (
     <div className='about center'>
-      <div className='hero-image'>
+      <div className='hero-container'>
         <div className='hero-text'>
       <img className='hero-image' src={hero.src} alt='profile-pic' width="100%" height="auto"/>
       {name && (

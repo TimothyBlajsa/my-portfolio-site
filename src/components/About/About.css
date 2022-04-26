@@ -40,12 +40,14 @@ img{
   margin: none;
   padding: 1rem;
   width: 50%;
+  margin-left: 3.75rem;
 }
 
 .hero-image {
   width: 100%;
+  object-position: -7.5rem;
 }
 
-.hero-image {
+.hero-container {
   text-align: center;
 }
