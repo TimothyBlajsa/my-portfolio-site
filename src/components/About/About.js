@@ -13,7 +13,7 @@ const About = () => {
     <div className='about center'>
       <div className='hero-image'>
         <div className='hero-text'>
-      <img src={hero.src} alt='profile-pic' width="100%" height="auto"/>
+      <img className='hero-image' src={hero.src} alt='profile-pic' width="100%" height="auto"/>
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}.</span>

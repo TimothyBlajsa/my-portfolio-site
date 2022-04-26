@@ -26,3 +26,13 @@
 .styles_gridItem__nPXhF figcaption {
   background: #444 !important;
 }
+
+
+
+#ReactGridGallery {
+  padding-left: .85rem;
+}
+
+.ReactGridGallery_tile {
+  background: none;
+}

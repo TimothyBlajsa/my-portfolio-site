@@ -127,6 +127,27 @@ const IMAGES = [
   
 ]
 
+const newImages = [
+  {
+    src: 'images/crow.jpeg',
+    thumbnail: 'images/crow.jpeg',
+    thumbnailWidth: 320,
+    thumbnailHeight: 174
+  },
+  {
+    src: 'images/scapes.jpeg',
+    thumbnail: 'images/scapes.jpeg',
+    thumbnailWidth: 320,
+    thumbnailHeight: 212
+  },
+  {
+    src: 'images/drown.jpeg',
+    thumbnail: 'images/drown.jpeg',
+    thumbnailWidth: 320,
+    thumbnailHeight: 212
+  }
+]
+
 const education = {
     date: '[2018]-[2022]',
     school: 'Raritan Valley Community College',
@@ -160,4 +181,4 @@ const contact = {
   phone: '908-376-9813',
 }
 
-export { header, about, projects, skills, contact, education, clients, work, IMAGES, hero }
+export { header, about, projects, skills, contact, education, clients, work, IMAGES, hero, newImages }

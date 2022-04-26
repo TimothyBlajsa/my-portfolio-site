@@ -39,6 +39,10 @@
 img{
   margin: none;
   padding: 1rem;
+  width: 50%;
+}
+
+.hero-image {
   width: 100%;
 }
 
