@@ -175,10 +175,19 @@ const education = {
     link: 'https://sportsmindedunlimited.com',
   }
 
+  const passions = [
+    'Planetarium Interactive Display',
+    'Aesthetic Roshambo',
+    'Unsplash Polaroid Generator',
+    'LocalStorage Notes App',
+    'Single Div Artwork',
+    'Digital Painting'
+]
+
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'timothyblajsa@gmail.com',
   phone: '908-376-9813',
 }
 
-export { header, about, projects, skills, contact, education, clients, work, IMAGES, hero, newImages }
+export { header, about, projects, skills, contact, education, clients, work, passions, IMAGES, hero, newImages }

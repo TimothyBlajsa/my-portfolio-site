@@ -8,6 +8,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { education } from '../../portfolio';
 import { clients } from '../../portfolio';
 import { work } from '../../portfolio';
+import { passions } from '../../portfolio';
 import './Accordion.css';
 
 const AccordionDrawer = () => {
@@ -81,6 +82,27 @@ const AccordionDrawer = () => {
                                 Demo
                             </span>
                         </a>
+                    </Typography>
+                </AccordionDetails>
+            </Accordion>
+
+            <Accordion>
+            <AccordionSummary
+                    expandIcon={<ExpandMoreIcon />}
+                    aria-controls="panella-content"
+                    id="panella-header"
+                    >
+                        <Typography>Passions</Typography>
+                </AccordionSummary>
+                <AccordionDetails>
+                <Typography component='span'>
+                        <ul>
+                            {passions.map((passion) => (
+                                <li key={uniqid()} className='accordion__list'>
+                                    {passion}    
+                                </li>
+                            ))}
+                        </ul>
                     </Typography>
                 </AccordionDetails>
             </Accordion>
