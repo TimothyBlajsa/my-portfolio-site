@@ -9,7 +9,7 @@ const about = {
   name: '[Timothy Blajsa]',
   role: '[Web Developer and Artist] from [Berkeley Heights, NJ]',
   description:
-    'An artist and front-end developer with experience leveraging industry tools such as HTML, CCSS, and Javascript, in addition to design based softwares such as Adobe XD, Figma, Wix, and Google Sites. Managing projects in an organized manner, I have worked both individually and cooperatively to produce multiple sites, web apps, and projects.',
+    'An artist and front-end developer with experience leveraging industry tools such as HTML, CSS, and Javascript, in addition to design based softwares such as Adobe XD, Figma, Wix, and Google Sites. Managing projects in an organized manner, I have worked both individually and cooperatively to produce multiple sites, web apps, and projects.',
   resume: 'https://docs.google.com/document/d/1JQQoNmri33yRk_z-k8qczNfmsuHq--mSs6kNHzy4iDg/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/timothy-blajsa-118795196',
