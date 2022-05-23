@@ -131,6 +131,16 @@ const IMAGES = [
     url: 'images/work_at_home.JPG',
     title: 'Lofi',
     thumbUrl: 'images/work_at_home.JPG'
+  },
+  {
+    url: 'images/moth.png',
+    title: 'Moth',
+    thumbUrl: 'images/moth.png'
+  },
+  {
+    url: 'images/fractured.png',
+    title: 'Fractured',
+    thumbUrl: 'images/fractured.png'
   }
   
 ]
