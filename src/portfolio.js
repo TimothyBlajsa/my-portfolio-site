@@ -60,6 +60,14 @@ const projects = [
     sourceCode: 'https://github.com/TimothyBlajsa/notes-app-javascript-localstorage',
     livePreview: 'http://lofi-notes.netlify.app',
   },
+  {
+    name: 'Tastebase',
+    description:
+      'An interactive web app to search and deliver recipes to the user.',
+      stack: ['Pug', 'SCSS', 'React'],
+      sourceCode: 'https://github.com/RVCC-IDMX/tastebase/tree/Blajsa-glitchfix',
+      livePreview: 'http://tastebase-demo.netlify.app',
+  }
 ]
 
 const skills = [
