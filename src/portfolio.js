@@ -175,6 +175,7 @@ const education = {
   const clients = [
     'Sports Minded Unlimited',
     'Raritan Valley Community College',
+    'Art Chick Designs LLC',
   ]
 
   const work = {
