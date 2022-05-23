@@ -92,7 +92,7 @@ const AccordionDrawer = () => {
                     aria-controls="panella-content"
                     id="panella-header"
                     >
-                        <Typography>Passions</Typography>
+                        <Typography>Passion Projects</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
                 <Typography component='span'>
