@@ -161,7 +161,8 @@ const education = {
     school: 'Raritan Valley Community College',
     major: 'A.S. Interactive Design and Web Development',
     achievements: [
-      '3.8+ gpa',
+      'Summa Cum Laude',
+      'Academic Excellence Award for Interface Design and Web Development 2022',
       'Phi Theta Kappa Honors Society',
       'The National Society of Leadership and Success',
       'Alpha Beta Gamma International Business Society',
